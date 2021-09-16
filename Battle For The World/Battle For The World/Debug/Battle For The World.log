@@ -1,0 +1,17 @@
+﻿Build started 15/04/2018 20:00:29.
+     1>Project "F:\AUST\1.2\1.2 Fall 17 Lecture\CSE SD Lab I\Battle For The World\Battle For The World\Battle For The World.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Battle For The World.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Battle For The World.vcxproj -> F:\AUST\1.2\1.2 Fall 17 Lecture\CSE SD Lab I\Battle For The World\Debug\Battle For The World.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Battle For The World.unsuccessfulbuild".
+         Touching "Debug\Battle For The World.lastbuildstate".
+     1>Done Building Project "F:\AUST\1.2\1.2 Fall 17 Lecture\CSE SD Lab I\Battle For The World\Battle For The World\Battle For The World.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.03
